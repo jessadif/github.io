@@ -1,0 +1,24 @@
+.media {
+  margin: 40px;
+}
+.media-body p {
+  text-align: justify;
+  width: 95%;
+}
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 50%;
+}
+
+.socicon {
+  width: 4rem;
+  height: 4rem;
+}
+.panel-group {
+  margin: 55px;
+}
+
